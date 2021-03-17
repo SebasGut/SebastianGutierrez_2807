@@ -33,4 +33,4 @@ add primary key (no_cuenta);
 commit;
 /*los cambios son de manera permanente*/
 
-/*codigo de la base*/
+/*codigo de la base de datos*/
