@@ -32,3 +32,5 @@ alter table alumno
 add primary key (no_cuenta);
 commit;
 /*los cambios son de manera permanente*/
+
+/*codigo de la base*/
